@@ -1,0 +1,35 @@
+/* Reset CSS */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Front-End */
+.front-end {
+    padding: 10px;
+}
+
+.front-end-header {
+    padding: 10px;
+}
+
+.course {
+    /*background-color: #E7E9EB;*/
+    border-radius: 5px;
+    padding: 10px;
+    /*background-color: rgb(144, 166, 202);*/
+    /*background-color: rgb(64, 64, 64);*/
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+}
+
+/* Back-End */
+.back-end {
+    padding: 10px;
+}
+
+.back-end-header {
+    padding: 10px;
+}
