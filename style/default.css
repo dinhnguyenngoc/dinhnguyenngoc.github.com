@@ -9,6 +9,8 @@
 /* default CSS */
 a {
     color: #227199;
+    text-decoration: none;
+    line-height: 30px;
 }
 
 /* container */
@@ -33,7 +35,6 @@ a {
     border: 2px solid #EEEEEE;
     border-radius: 10px;
     padding: 10px;
-    cursor: pointer;
     transition: all 0.2s ease-in-out;
     /*background: linear-gradient(41deg, #bed6e9, #fff);*/ /* light blue */
     /*background: linear-gradient(41deg, #f6dbe9, #fff);*/ /* pink */
