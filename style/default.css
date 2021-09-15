@@ -77,3 +77,7 @@ div.back-to-top-fixed {
 div.back-to-top-fixed a {
     text-decoration: none;
 }
+
+#back-top {
+    display: none;
+}
